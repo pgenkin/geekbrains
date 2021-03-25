@@ -1,0 +1,5 @@
+Physics: 10(l) 10(pr) 5(lab)
+Chemistry: 5(l) 5(pr) 3(lab)
+Biology: 3(l) - 4(lab)
+Calculus: 6(l) 6(pr) - 
+PT: - 5(pr) - 

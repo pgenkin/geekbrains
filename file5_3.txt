@@ -1,0 +1,10 @@
+Ivanov 100000
+Petrov 80000
+Johnson 120000
+Peterson 10000
+Lewis 15000
+Sidorov 19500
+Vasiliev 25000
+Konurbaev 17000
+Padilla 50000
+Genkin 80000
